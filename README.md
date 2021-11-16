@@ -3,4 +3,4 @@ Supplementary code for the paper "Increased base substitution mutagenesis in the
 
 These scripts were used in the amplicon sequencing-based analysis of IgV region mutatgenesis in DT40 cell clones of different genotypes.
 
-Arcjhived on Zenodo: [![DOI](https://zenodo.org/badge/355839376.svg)](https://zenodo.org/badge/latestdoi/355839376)
+Archived on Zenodo: [![DOI](https://zenodo.org/badge/355839376.svg)](https://zenodo.org/badge/latestdoi/355839376)
